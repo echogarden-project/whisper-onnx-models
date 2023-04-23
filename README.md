@@ -4,4 +4,4 @@
 
 Each model tarball includes an `encoder.onnx` and `decoder.onnx` model files. They are mainly intended to be used from [Echogarden](https://github.com/echogarden-project/echogarden), but can also be used from other applications.
 
-You can download the tarballs from the repository's releases.
+You can download the tarballs from the repository's 'releases' section.
